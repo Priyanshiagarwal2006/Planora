@@ -1,7 +1,6 @@
 # 🚀 Planora - Smart Task Planner App
 
 Planora is a modern, minimal, and user-friendly mobile application designed to help users efficiently manage their daily tasks and stay organized.
-
 Built with React Native and Expo, Planora focuses on simplicity, performance, and a clean user experience while providing essential productivity features.
 
 ---

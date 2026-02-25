@@ -1,50 +1,50 @@
-# Welcome to your Expo app 👋
+# 🚀 Planora - Smart Task Planner App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Planora is a modern, minimal, and user-friendly mobile application designed to help users efficiently manage their daily tasks and stay organized.
 
-## Get started
+Built with React Native and Expo, Planora focuses on simplicity, performance, and a clean user experience while providing essential productivity features.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## ✨ Key Features
 
-2. Start the app
+- 📝 Create, edit, and delete tasks easily
+- 🎯 Set task priority (Easy, Medium, Hard)
+- ✅ Mark tasks as completed with visual feedback
+- 🌙 Dark Mode support with persistent theme saving
+- 💾 Local data persistence using AsyncStorage
+- ⚡ Smooth animations for better user experience
+- 🎨 Clean, modern, and responsive UI design
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🧠 Core Functionalities
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- **Task Management:** Users can efficiently organize daily activities with priority levels.
+- **Persistent Storage:** Tasks and theme preferences are saved locally and remain intact after app restart.
+- **Theme System:** Dark mode and light mode with real-time switching and saved preferences.
+- **Optimized UI:** Designed with a focus on readability and minimal clutter.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 🛠️ Tech Stack
 
-When you're ready, run:
+- **Frontend:** React Native (Expo)
+- **Language:** TypeScript
+- **Storage:** AsyncStorage
+- **Animations:** React Native Reanimated
+- **Navigation:** Expo Router
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 📦 APK Download
 
-## Learn more
+👉 [Download Planora APK](https://drive.google.com/file/d/1QxkMX8_ttr--bs-r5H8RQXDcPNYBTRyN/view?usp=drivesdk)
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+👩‍💻 Developer
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Priyanshi Agarwal
+B.Tech Computer Science Engineering
+Frontend Developer | React Native Enthusiast
